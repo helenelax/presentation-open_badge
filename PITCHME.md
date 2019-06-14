@@ -6,8 +6,7 @@
 Un artefact technique qui permet de reconnaitre les compétences informelles
 
 +++
-
-<iframe width="90%" height="560" src="https://openbadgepassport.com/app/profile/47273/embed" frameborder="0"></iframe>
+![Des exemples de badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badges_Helene.png  "Des exemples de badges")
 
 +++
 
@@ -30,10 +29,14 @@ Un artefact technique qui permet de reconnaitre les compétences informelles
  - infalsifiable |
  - format ouvert et interopérable |
  
+ +++
+ 
+ <iframe width="90%" height="560" src="https://openbadgepassport.com/app/profile/47273/embed" frameborder="0"></iframe>
+ 
 ---
 
 ### Comment sont-il attribués ?
-![![Schéma illustrant le circuit de création et d'obtention des badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badge_System_Overview_PennState_University_DR.jpeg  "Schéma illustrant le circuit de création et d'obtention des badges")
+![Schéma illustrant le circuit de création et d'obtention des badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badge_System_Overview_PennState_University_DR.jpeg  "Schéma illustrant le circuit de création et d'obtention des badges")
 Note:le backpack vérifie l'authenticité du badge
 ---
 ### Quelle valeur ont-ils ?
@@ -42,38 +45,33 @@ Note:le backpack vérifie l'authenticité du badge
 
 +++
 
-- émeteur
-- validateur
-- endosseur
-- critères 
-- preuves
-- place dans la collection
+- Émetteur
+- Validateur
+- Endosseur
+- Critères 
+- Preuves
+- Place dans la collection
 
 ---
 ### Les métadonnées
 
 ![Les métadonnées contenues dans les badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/skills-to-pay-the-bills-1024x768.png  "Les métadonnées contenues dans les badges")
-
-+++
-
-- proposé par la fondation Mozilla en 2011
-- standard maintenu un consortium
  
  ---
  
-### Un écosystème d'open badge permet 1
+### Un écosystème d'open badge permet 
 ![Ce que les Open Badges apportent à l'individu](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_1-individu.png  "Ce que les Open Badges apportent à l'individu")
 
 +++
-### Un écosystème d'open badge permet 2
+### Un écosystème d'open badge permet 
 ![Ce que les Open Badges apportent aux professionnels](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_2-professionnels.png  "Ce que les Open Badges apportent aux professionnels")
 
 +++
-### Un écosystème d'open badge permet 3
+### Un écosystème d'open badge permet 
 ![Ce que les Open Badges apportent à la communauté](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_3-communaute.png  "Ce que les Open Badges apportent à la communauté")
 
 +++
-### Un écosystème d'open badge permet 4
+### Un écosystème d'open badge permet 
 ![Ce que les Open Badges apportent au territoire](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_4-territoire.png  "Ce que les Open Badges apportent au territoire")
 
 ---
