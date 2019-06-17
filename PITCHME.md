@@ -29,7 +29,7 @@ Un artefact technique qui permet de reconnaitre les compétences informelles
 - infalsifiable |
 - format ouvert et interopérable |
 
- +++
++++
 
 <iframe width="90%" height="560" src="https://openbadgepassport.com/app/profile/47273/embed" frameborder="0"></iframe>
  
