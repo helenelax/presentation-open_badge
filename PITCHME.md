@@ -1,24 +1,9 @@
 ### Les  Open badges
-18 juin 2019
+
 
 ---
 ### Qu'est-ce que c'est ?
-Un artefact technique qui permet de reconnaitre les compétences informelles
-
-+++
-![Des exemples de badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badges_Helene.png  "Des exemples de badges")
-
-+++
-
-- Savoir-faire
-- Savoir-être
-- Savoirs
-- Participation
-- Engagement
-
-+++
-
-- Granulométrie faible et modulable
+Un artefact technique qui permet de reconnaître les compétences informelles
 
 ---
 
@@ -26,36 +11,48 @@ Un artefact technique qui permet de reconnaitre les compétences informelles
 
 - une image |
 - avec des métadonnées |
-- infalsifiable |
+- infalsifiables |
 - format ouvert et interopérable |
 
 +++
 
 <iframe width="90%" height="560" src="https://openbadgepassport.com/app/profile/47273/embed" frameborder="0"></iframe>
+
+---
+### Quelles "compétences" ?
+
+- Savoir-faire
+- Savoir-être
+- Savoirs
+- Participation
+- Engagement
  
 ---
 
 ### Comment sont-il attribués ?
 ![Schéma illustrant le circuit de création et d'obtention des badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badge_System_Overview_PennState_University_DR.jpeg  "Schéma illustrant le circuit de création et d'obtention des badges")
 Note:le backpack vérifie l'authenticité du badge
+
 ---
+
 ### Quelle valeur ont-ils ?
 - Celle qu'on leur donne !
 - Réseau de confiance
 
 +++
 
-- Émetteur
-- Validateur
-- Endosseur
-- Critères 
-- Preuves
-- Place dans la collection
+### Valeur donnée en fonction de
+- l'émetteur
+- le validateur
+- l'endosseur
+- les critères 
+- les preuves
+- la place dans la collection
 
 ---
 ### Les métadonnées
 
-![Les métadonnées contenues dans les badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/skills-to-pay-the-bills-1024x768.png  "Les métadonnées contenues dans les badges")
+![Les métadonnées contenues dans les badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/badge_definition1-1_pt.png  "Les métadonnées contenues dans les badges")
 
 ---
 
@@ -79,16 +76,24 @@ Note:le backpack vérifie l'authenticité du badge
 
 ### Quels éléments pour en créer un ?
 ![Canevas pour concevoir un badge - Badgeons la Normandie](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Canevas_Badgeons_Normandie_001.png  "Canevas pour concevoir un badge - Badgeons la Normandie")
+@snap[south text-04 span-100]
+(Source - Badgeons la Normandie)
+@snapend
 
 +++
+
 ![Canevas pour concevoir un badge - Badgeons la Normandie](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Canevas_Badgeons_Normandie_002.png  "Canevas pour concevoir un badge - Badgeons la Normandie")
+@snap[south text-04 span-100]
+(Source - Badgeons la Normandie)
+@snapend
 
 +++
 
-[Un canevas pour en rien oublier](https://docs.google.com/document/d/1f0XgXcm8iFijAa5N1BMLGlQ6VRCjutEeJK5CxRFRQXk/edit)   
+[Le canevas dans un format modifiable](https://docs.google.com/document/d/1f0XgXcm8iFijAa5N1BMLGlQ6VRCjutEeJK5CxRFRQXk/edit)   
 (source : badgeons la Normandie)
 
 ---
+
 ### Crédits
 
 - PennState University - Droits réservés
